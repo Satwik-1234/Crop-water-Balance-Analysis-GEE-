@@ -1,4 +1,4 @@
-# PROFESSIONAL WATER BALANCE & EVAPOTRANSPIRATION ANALYSIS
+# WATER BALANCE & EVAPOTRANSPIRATION ANALYSIS
 ## Satara, Sangli, Kolhapur Districts - Maharashtra, India
 ### Agricultural Water Management Decision Support System
 
