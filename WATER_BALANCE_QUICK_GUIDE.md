@@ -492,7 +492,6 @@ Track these over time (annual updates):
 ---
 
 **Need Help?**  
-Email: your.agri.department@maharashtra.gov.in  
-Or contact your nearest Krishi Vigyan Kendra
+Email: satwikudupi@gmail.com
 
 **Update Frequency**: Run this analysis annually after monsoon season (October-November) for next year's planning.
