@@ -967,21 +967,7 @@ Before finalizing results:
 - QGIS: https://qgis.org/
 - ArcGIS: https://www.esri.com/support
 
-### Domain Experts
-
-**Water Resources**:
-- Maharashtra Water Resources Regulatory Authority (MWRRA)
-- Central Water Commission (CWC), Krishna Basin Division
-
-**Agriculture**:
-- Mahatma Phule Krishi Vidyapeeth, Rahuri
-- ICAR-National Bureau of Soil Survey, Nagpur
-- District Agriculture Offices
-
-**Research Institutions**:
-- IITM Pune (Climate & Hydrology)
-- National Institute of Hydrology, Roorkee
-- ICRISAT, Hyderabad (Semi-arid Tropics)
+### Domain Expert**:
 
 ---
 
@@ -1008,8 +994,8 @@ MODIS, SMAP, ESA Sentinel-2, and ECMWF ERA5-Land.
 ---
 
 **Version**: 1.0  
-**Last Updated**: February 2025  
-**Developed by**: Professional Water Resources & Agricultural Engineering Team  
+**Last Updated**: February 2025
+**Developed by**: Satwik Kamlakar Udupi 
 **Status**: Production-Ready, Validated
 
 ---
